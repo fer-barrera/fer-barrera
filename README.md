@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fer-barrera
 - 👀 I’m interested in computer vision
 - 🌱 I’m currently teaching computer vision, programming, and computer architecture
-- 💞️ I’m looking to collaborate on researching and teaching tools
-- 📫 How to reach me github inbox
+- 💞️ I’m looking to collaborate on researching and teaching
+- 📫 How to reach me, it wirte to my github inbox
 - 😄 Pronouns: he
 - ⚡ Fun fact: 💞️ crossfit
 
